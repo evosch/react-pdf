@@ -1,4 +1,5 @@
 import stream from 'stream';
+import { Buffer } from 'buffer';
 import PDFObject from './object';
 import PDFReference from './reference';
 import PDFPage from './page';
